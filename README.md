@@ -1,3 +1,5 @@
+![image](https://github.com/Kundansaireddy/LeetCompare/assets/81676583/f56f3a79-e04f-4e61-9821-2ccfe04b2fd9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
